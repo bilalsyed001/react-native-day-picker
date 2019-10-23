@@ -3,10 +3,9 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import {
-	ListView,
 	StyleSheet,
 }               from 'react-native';
-
+import ListView from 'deprecated-react-native-listview';
 import Month    from './Month';
 
 
